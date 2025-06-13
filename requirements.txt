@@ -9,5 +9,5 @@ cerberus~=1.2
 networkx>=2.1
 behave>=1.2.6
 GitPython~=2.1.11
-requests>=2.23.0
+requests>=2.32.4
 Jinja2>=2.10.1
